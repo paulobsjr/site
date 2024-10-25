@@ -85,9 +85,8 @@
                 <div class="row">
                   <div class="col-md-9 col-lg-7 offset-md-1 offset-xxl-0">
                     <h1><span class="d-block" data-caption-animate="fadeInUp" data-caption-delay="100">Paulo Barbosa</span><span class="d-block text-light" data-caption-animate="fadeInUp" data-caption-delay="200">Contador</span></h1>
-                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="350">Pós-Graduado em Auditoria e Contabilidade Pública
-                      <br>Capacitação em Controladoria
-                      <br>Bacharel em Ciências Contábeis
+                    <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="350">Pós-Graduado em Auditoria 
+                      <br>Pós-Graduado em Contabilidade Pública
                       <br>Técnico em Tecnologia da Informação
                                                               </p>
                     <div class="button-wrap-default" data-caption-animate="fadeInUp" data-caption-delay="450"><a class="button button-secondary-text" href="https://www.linkedin.com/in/paulobsj/">Mais Informações: Linkedin</a></div>
@@ -148,7 +147,7 @@
               <div class="box-icon-2">
                 <div class="icon novi-icon mercury-icon-briefcase"></div>
                 <h5 class="title">Contabilidade</h5>
-                <p class="text">Profissional altamente qualificado em contabilidade, com uma pós-graduação em Auditoria e Contabilidade Pública e um bacharelado em Ciências Contábeis. Sua capacitação em controladoria e experiência prática o tornam um especialista em análise financeira e gestão contábil.</p>
+                <p class="text">Profissional altamente qualificado em contabilidade, com uma pós-graduação em Auditoria e Contabilidade Pública e um bacharelado em Ciências Contábeis. <a href="links.html" style="color: #ffffff">Sua capacitação em controladoria e experiência prática o tornam um especialista em análise financeira e gestão contábil.</a></p>
               </div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
@@ -337,7 +336,7 @@
             </li>
           </ul>
           <br>
-           <small> <p class="direitos-rodape">@Todos os direitos reservados - <a class="text-dark" data-toggle="modal" href="#modalTermos">Termos de Uso</a></p></small>
+           <small> <p class="direitos-rodape">@Todos os direitos reservados - <a class="text-dark" data-toggle="modal" href="links.html">Termos de Uso</a></p></small>
         </div>
         <div class="col-md-3">
           <ul class="list-inline">
